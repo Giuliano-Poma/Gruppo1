@@ -1,7 +1,7 @@
 "# Gruppo1" 
 Membri:
 
--Checchia Filippo  Team Leader
+-Checchia Filippo  (Team Leader)
 -Di Raimondo Gabriele
 -Poma Giuliano
 
